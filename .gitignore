@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#assignment files
+*.ttf
+*.txt
+
 # C extensions
 *.so
 
